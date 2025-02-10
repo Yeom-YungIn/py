@@ -24,6 +24,8 @@ print ((10 > 3) and (5 > 2))
 print ((10 > 3) & (5 > 2))
 print ((10 > 3) | (5 > 2))
 
+print (5 > 4 > 3 > 2 > 1)
+print (5 > 4 > 3 > 2 >= 10)
 
 print(not True > -2)
 print(-2)
